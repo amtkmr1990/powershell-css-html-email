@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="ISO-8859-15"?>
+<?xml-stylesheet type='text/xsl' href='Notification-Transformer.xslt'?>
+<root isProcessed="false">
+  <row>
+    <Header1>Data</Header1>
+    <Header2>Data</Header2>
+    <Header3>Data</Header3>
+  </row>
+</root>
